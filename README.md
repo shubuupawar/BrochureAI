@@ -16,35 +16,15 @@
 - **Document Generation** (LaTeX, ReportLab, FPDF)  
 - **UI/UX** (Streamlit/Flask for interactive customization)  
 
-## 📂 Project Structure  
-```
-📦 BrochureAI  
- ┣ 📂 src  
- ┃ ┣ 📜 scraper.py  # Web scraping logic  
- ┃ ┣ 📜 text_processing.py  # AI-based summarization  
- ┃ ┣ 📜 design_engine.py  # Brochure formatting  
- ┃ ┣ 📜 main.py  # Orchestrates all components  
- ┣ 📂 templates  # Pre-defined brochure layouts  
- ┣ 📂 output  # Generated brochures  
- ┣ 📜 requirements.txt  # Dependencies  
- ┣ 📜 README.md  # Project documentation  
- ┗ 📜 BrochureAI.ipynb  # Jupyter Notebook with code and experiments  
+
 ```
 
 ## 📌 Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/BrochureAI.git
+   git clone https://github.com/shubuupawar/BrochureAI.git
    cd BrochureAI
-   ```
-2. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
-   ```  
-3. Run the application:  
-   ```bash
-   python main.py
-   ```  
+    
 
 ## 🎯 How It Works  
 1. **Input**: Provide a website URL or company details.  
@@ -60,10 +40,7 @@
 ✅ Event & Conference Materials  
 
 ## 🤝 Contributing  
-Contributions are welcome! Feel free to submit issues, pull requests, or suggestions.  
-
-## 📜 License  
-This project is licensed under the MIT License.  
+Contributions are welcome! Feel free to submit issues, pull requests, or suggestions.    
 
 ## 📞 Contact  
-For any queries, reach out at [your.email@example.com](mailto:your.email@example.com).  
+For any queries, reach out at (shubhampawar2809@gmail.com).  
