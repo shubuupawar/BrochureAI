@@ -31,7 +31,20 @@
 2. **Scraping**: Extracts relevant text, images, and contact info.  
 3. **Processing**: AI summarizes text and structures the content.  
 4. **Designing**: Generates a professional brochure with branding elements.  
-5. **Output**: Download the final brochure in PDF or image formats.  
+5. **Output**: Download the final brochure in PDF or image formats.
+
+📄 Description of GradioVersion.ipynb
+This notebook is designed to build a Gradio-based user interface that interacts with multiple large language models (LLMs) including OpenAI, Google Gemini, and Anthropic Claude. It includes:
+
+Web scraping tools using requests and BeautifulSoup.
+
+Integration of environment variables using dotenv.
+
+LLM API setup for OpenAI, Gemini (via google.generativeai), and Claude (via anthropic).
+
+A user-friendly Gradio app frontend for interacting with these models.
+
+The project seems focused on comparing or integrating responses from various models via a unified interface.
 
 ## 🏆 Use Cases  
 ✅ Marketing & Branding Teams  
